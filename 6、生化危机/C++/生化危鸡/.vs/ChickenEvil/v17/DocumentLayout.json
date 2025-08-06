@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|solutionrelative:ChickenEvil\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\chicken_slow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|solutionrelative:ChickenEvil\\chicken_slow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\chicken_medium.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|solutionrelative:ChickenEvil\\chicken_medium.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\chicken_fast.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|solutionrelative:ChickenEvil\\chicken_fast.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\chicken.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|solutionrelative:ChickenEvil\\chicken.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|solutionrelative:ChickenEvil\\bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|solutionrelative:ChickenEvil\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|solutionrelative:ChickenEvil\\animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|solutionrelative:ChickenEvil\\timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|solutionrelative:ChickenEvil\\vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\atlas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DD94399-6A48-4B2F-AAA2-030A2FFDAA2E}|ChickenEvil\\ChickenEvil.vcxproj|solutionrelative:ChickenEvil\\atlas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\main.cpp",
+              "RelativeDocumentMoniker": "ChickenEvil\\main.cpp",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\main.cpp",
+              "RelativeToolTip": "ChickenEvil\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T04:09:59.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chicken_slow.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\chicken_slow.h",
+              "RelativeDocumentMoniker": "ChickenEvil\\chicken_slow.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\chicken_slow.h",
+              "RelativeToolTip": "ChickenEvil\\chicken_slow.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:09:59.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "chicken_fast.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\chicken_fast.h",
+              "RelativeDocumentMoniker": "ChickenEvil\\chicken_fast.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\chicken_fast.h",
+              "RelativeToolTip": "ChickenEvil\\chicken_fast.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:09:59.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "animation.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\animation.h",
+              "RelativeDocumentMoniker": "ChickenEvil\\animation.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\animation.h",
+              "RelativeToolTip": "ChickenEvil\\animation.h",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:09:59.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "camera.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\camera.h",
+              "RelativeDocumentMoniker": "ChickenEvil\\camera.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\camera.h",
+              "RelativeToolTip": "ChickenEvil\\camera.h",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:09:59.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "atlas.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\atlas.h",
+              "RelativeDocumentMoniker": "ChickenEvil\\atlas.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\atlas.h",
+              "RelativeToolTip": "ChickenEvil\\atlas.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:09:59.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bullet.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\bullet.h",
+              "RelativeDocumentMoniker": "ChickenEvil\\bullet.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\bullet.h",
+              "RelativeToolTip": "ChickenEvil\\bullet.h",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:09:59.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "chicken_medium.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\chicken_medium.h",
+              "RelativeDocumentMoniker": "ChickenEvil\\chicken_medium.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\chicken_medium.h",
+              "RelativeToolTip": "ChickenEvil\\chicken_medium.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:09:59.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "timer.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\timer.h",
+              "RelativeDocumentMoniker": "ChickenEvil\\timer.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\timer.h",
+              "RelativeToolTip": "ChickenEvil\\timer.h",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:09:59.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "vector2.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\vector2.h",
+              "RelativeDocumentMoniker": "ChickenEvil\\vector2.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\vector2.h",
+              "RelativeToolTip": "ChickenEvil\\vector2.h",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:09:59.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "chicken.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\chicken.h",
+              "RelativeDocumentMoniker": "ChickenEvil\\chicken.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\6\u3001\u751F\u5316\u5371\u673A\\\u751F\u5316\u5371\u9E21\\ChickenEvil\\chicken.h",
+              "RelativeToolTip": "ChickenEvil\\chicken.h",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:09:59.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

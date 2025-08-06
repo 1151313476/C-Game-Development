@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\resources_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:resources_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\resources_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:resources_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\player_state_nodes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:player_state_nodes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\enemy_state_node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:enemy_state_node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\state_machine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:state_machine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\state_machine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:state_machine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\atlas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:atlas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:timer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\enemy_state_node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:enemy_state_node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\player_state_nodes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:player_state_nodes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\collision_box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70279F89-2989-4FFA-89FC-A018011124BE}|HollowKatana.vcxproj|solutionrelative:collision_box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "animation.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\animation.h",
+              "RelativeDocumentMoniker": "animation.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\animation.h",
+              "RelativeToolTip": "animation.h",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAcwGoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "player_state_nodes.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\player_state_nodes.h",
+              "RelativeDocumentMoniker": "player_state_nodes.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\player_state_nodes.h",
+              "RelativeToolTip": "player_state_nodes.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "enemy_state_node.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\enemy_state_node.h",
+              "RelativeDocumentMoniker": "enemy_state_node.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\enemy_state_node.h",
+              "RelativeToolTip": "enemy_state_node.h",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "resources_manager.cpp",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\resources_manager.cpp",
+              "RelativeDocumentMoniker": "resources_manager.cpp",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\resources_manager.cpp",
+              "RelativeToolTip": "resources_manager.cpp",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAcwLoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T04:06:40.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "state_machine.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\state_machine.h",
+              "RelativeDocumentMoniker": "state_machine.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\state_machine.h",
+              "RelativeToolTip": "state_machine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "atlas.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\atlas.h",
+              "RelativeDocumentMoniker": "atlas.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\atlas.h",
+              "RelativeToolTip": "atlas.h",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "vector2.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\vector2.h",
+              "RelativeDocumentMoniker": "vector2.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\vector2.h",
+              "RelativeToolTip": "vector2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "util.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\util.h",
+              "RelativeDocumentMoniker": "util.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\util.h",
+              "RelativeToolTip": "util.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "player.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\player.h",
+              "RelativeDocumentMoniker": "player.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\player.h",
+              "RelativeToolTip": "player.h",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAACMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T04:06:40.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "resources_manager.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\resources_manager.h",
+              "RelativeDocumentMoniker": "resources_manager.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\resources_manager.h",
+              "RelativeToolTip": "resources_manager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "character.cpp",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\character.cpp",
+              "RelativeDocumentMoniker": "character.cpp",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\character.cpp",
+              "RelativeToolTip": "character.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T04:06:40.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "enemy.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\enemy.h",
+              "RelativeDocumentMoniker": "enemy.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\enemy.h",
+              "RelativeToolTip": "enemy.h",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "state_machine.cpp",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\state_machine.cpp",
+              "RelativeDocumentMoniker": "state_machine.cpp",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\state_machine.cpp",
+              "RelativeToolTip": "state_machine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T04:06:40.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "enemy.cpp",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\enemy.cpp",
+              "RelativeDocumentMoniker": "enemy.cpp",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\enemy.cpp",
+              "RelativeToolTip": "enemy.cpp",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAAAPEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T04:06:40.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "timer.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\timer.h",
+              "RelativeDocumentMoniker": "timer.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\timer.h",
+              "RelativeToolTip": "timer.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "collision_box.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\collision_box.h",
+              "RelativeDocumentMoniker": "collision_box.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\collision_box.h",
+              "RelativeToolTip": "collision_box.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "enemy_state_node.cpp",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\enemy_state_node.cpp",
+              "RelativeDocumentMoniker": "enemy_state_node.cpp",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\enemy_state_node.cpp",
+              "RelativeToolTip": "enemy_state_node.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T04:06:40.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "player_state_nodes.cpp",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\player_state_nodes.cpp",
+              "RelativeDocumentMoniker": "player_state_nodes.cpp",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\player_state_nodes.cpp",
+              "RelativeToolTip": "player_state_nodes.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAH0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T04:06:40.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "character.h",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\character.h",
+              "RelativeDocumentMoniker": "character.h",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\character.h",
+              "RelativeToolTip": "character.h",
+              "ViewState": "AQIAABwAAAAAAAAAAAAhwDIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-06T04:06:40.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "player.cpp",
+              "DocumentMoniker": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\player.cpp",
+              "RelativeDocumentMoniker": "player.cpp",
+              "ToolTip": "E:\\project\\\u521D\u4EE3\u76EE\\Game-Development\\4\u3001\u7A7A\u6D1E\u6B66\u58EB\\C\u002B\u002B\\\u7A7A\u6D1E\u6B66\u58EB\\player.cpp",
+              "RelativeToolTip": "player.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T04:06:40.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

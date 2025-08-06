@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="character">
+      <UniqueIdentifier>{2100a74f-b7e0-48b3-a2d8-3e1845d16d88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="manager">
+      <UniqueIdentifier>{d8d943cf-a75d-4a91-9732-3757ca11b069}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="state_machine">
+      <UniqueIdentifier>{ecdc69be-f56a-46bb-a419-e44c1fbff9bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="state_machine\state_node">
+      <UniqueIdentifier>{5d1d8f9d-2e4a-4af5-93e9-5bfd0f98af4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="item">
+      <UniqueIdentifier>{c7efdb90-8e78-4e6b-8ff5-86d9ef5d4ff5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="character.cpp">
+      <Filter>character</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>character</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>character</Filter>
+    </ClCompile>
+    <ClCompile Include="collision_manager.cpp">
+      <Filter>manager</Filter>
+    </ClCompile>
+    <ClCompile Include="resources_manager.cpp">
+      <Filter>manager</Filter>
+    </ClCompile>
+    <ClCompile Include="character_manager.cpp">
+      <Filter>manager</Filter>
+    </ClCompile>
+    <ClCompile Include="state_machine.cpp">
+      <Filter>state_machine</Filter>
+    </ClCompile>
+    <ClCompile Include="player_state_nodes.cpp">
+      <Filter>state_machine\state_node</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet_time_manager.cpp">
+      <Filter>manager</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy_state_node.cpp">
+      <Filter>state_machine\state_node</Filter>
+    </ClCompile>
+    <ClCompile Include="barb.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
+    <ClCompile Include="sword.cpp">
+      <Filter>item</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="collision_layer.h" />
+    <ClInclude Include="collision_box.h" />
+    <ClInclude Include="vector2.h" />
+    <ClInclude Include="character.h">
+      <Filter>character</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>character</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>character</Filter>
+    </ClInclude>
+    <ClInclude Include="collision_manager.h">
+      <Filter>manager</Filter>
+    </ClInclude>
+    <ClInclude Include="resources_manager.h">
+      <Filter>manager</Filter>
+    </ClInclude>
+    <ClInclude Include="atlas.h" />
+    <ClInclude Include="animation.h" />
+    <ClInclude Include="util.h" />
+    <ClInclude Include="timer.h" />
+    <ClInclude Include="character_manager.h">
+      <Filter>manager</Filter>
+    </ClInclude>
+    <ClInclude Include="state_machine.h">
+      <Filter>state_machine</Filter>
+    </ClInclude>
+    <ClInclude Include="state_node.h">
+      <Filter>state_machine\state_node</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet_time_manager.h">
+      <Filter>manager</Filter>
+    </ClInclude>
+    <ClInclude Include="player_state_nodes.h">
+      <Filter>state_machine\state_node</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy_state_node.h">
+      <Filter>state_machine\state_node</Filter>
+    </ClInclude>
+    <ClInclude Include="barb.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="sword.h">
+      <Filter>item</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="HollowKatana.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
